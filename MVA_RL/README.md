@@ -8,6 +8,6 @@ at [ENS Paris-Saclay](http://www.ens-cachan.fr/en).
 
 - **HW2** : UCB1 and Thompson Sampling algorithm for Stochastic Multi-Armed Bandit problem, Linear Bandit based for movie recommandation
 
-- **HW3** : REINFORCE algorithm with Gaussian policy, Linear Fitted Q-Iteration algorithm
+- **HW3** : REINFORCE algorithm with parametric policy models,  Fitted Q-Iteration algorithm with linear approximation
 
 The content of the course can be found on the course page ([here](http://chercheurs.lille.inria.fr/~lazaric/Webpage/MVA-RL_Course16.html)).
