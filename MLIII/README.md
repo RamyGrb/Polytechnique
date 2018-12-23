@@ -8,4 +8,4 @@ at [Ecole Polytechnique](https://www.polytechnique.edu/en). Most of the content 
 
 - **TP NN** : Neural Networks
 
-- **TP CNN** : Convolutional Neural Networks, LeNet, YOLO, Computer Vision, Classification, Colorization, Human Pose estimation
+- **TP CNN** : Computer Vision, Convolutional Neural Networks, YOLO,  Classification, Colorization, Human Pose estimation
