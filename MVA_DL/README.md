@@ -8,6 +8,6 @@ at [ENS Paris-Saclay](http://www.ens-cachan.fr/en).
 
 - **MP2** : NLP, Multilingual word and sentence embeddings, Bag-of-Vectors (BoV), Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM)
 
-- **MP3** : Generative Adversarial Networks (GAN), Reinforcement Learning
+- **MP3** : Deep Reinforcement Learning, Q-Learning
 
 The content of the course can be found on the course page ([here](https://www.labri.fr/perso/vlepetit/deep_learning_mva.php)).
