@@ -10,4 +10,6 @@ at [Ecole Polytechnique](https://www.polytechnique.edu/en). Most of the content 
 
 - **TP CNN** : Computer Vision, Convolutional Neural Networks, YOLO,  Classification, Colorization, Human Pose estimation
 
+- **TP RL** : Reinforcement Leqrning using OpenAI Gym
+
 - **TP RNN** : NLP, Recurrent Neural Networks, Long-Short Term Memory
