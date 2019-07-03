@@ -1,6 +1,6 @@
 # Ecole Polytechnique Master's Program
 
-This repository contains homeworks completed at Ecole Polytechnique, UC Berkeley and Ecole Normale Supérieure.
+This repository contains public homeworks completed at Ecole Polytechnique, UC Berkeley and Ecole Normale Supérieure.
 
 - **MVA_RL** : Reinforcement Learning, A. Lazaric
 
